@@ -4,5 +4,5 @@ Generates a qr code from an url, saves it to a temporary file, and opens the ima
 ![Github QR](/github.png "GitHub QR") 
 
 ```rust
-qr google.com
+qr https://github.com/SebRollen/qr
 ```
